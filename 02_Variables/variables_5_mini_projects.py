@@ -23,6 +23,7 @@ GROUPS (51 projects total):
 HOW TO RUN:
   python variables_mini_projects_all.py
 =====================================================================
+
 """
 
 print("=" * 60)
