@@ -1,6 +1,6 @@
 """
 =====================================================================
- 51 MINI PROJECTS — MASTER FILE  (all 8 groups in one file)
+ 51 MINI PROJECTS — MASTER FILE  
 =====================================================================
 Every beginner mini-project for Python VARIABLES, combined into ONE
 runnable file. No functions (def) are used anywhere.
